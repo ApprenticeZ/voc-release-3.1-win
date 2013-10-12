@@ -1,3 +1,9 @@
+This is a windows version of object detector DPM. Great thanks to the original authors. 
+
+Environment: 
+- windows 7 64bit
+- matlab 2012a
+- cygwin64
 
 Information
 ===========
